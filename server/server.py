@@ -52,7 +52,7 @@ def start_server():
             clients.append((clients_sock, sock_addres))
             new_client = False
 
-#start_server()
+start_server()
 
 
 
